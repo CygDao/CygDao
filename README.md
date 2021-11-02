@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedPythonPie
-- 👀 I’m interested in politics and badminton
+- 👀 I’m interested in classical music, reading and badminton
 - 🌱 I’m currently learning data structure
 - 💞️ I’m looking to collaborate on projects that use either python or java
 - 📫 How to reach me by email: cding020702@berkeley.edu

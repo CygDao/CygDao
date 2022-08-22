@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedPythonPie
-- 👀 I’m interested in classical music, reading and badminton
-- 🌱 I’m currently learning data structure
-- 💞️ I’m looking to collaborate on projects that use either python or java
+- 👀 I’m interested in instrumental music and reading novels
+- 🌱 I’m currently learning machine architecture and robotics
+- 💞️ I’m looking to collaborate on projects that use either python, java, or C.
 - 📫 How to reach me by email: cding020702@berkeley.edu
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedPythonPie
 - 👀 I’m interested in building some interesting robots
 - 🌱 I’m currently learning all the skills that would be helpful for me to build my next robot
-- 💞️ I’m looking to collaborate on any fun projects
+- 💞️ I’m looking to collaborate on any fun new idea
 - 📫 How to reach me by email: cding020702@berkeley.edu
 
 <!---

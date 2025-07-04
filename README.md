@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CygDao JASON Ding
-- 👀 I’m interested in all areas of automation
-- 🌱 I’m currently learning the skills that would help me to build my next autonomous robotic system
-- 💞️ I’m looking to share thoughts on any interesting project ideas or exciting research advancements
+- 👀 I’m interested in the application of machine learning and control to automate physical objects and systems
+- 🌱 I’m currently learning the skills that will keep me up-to-date in the automation industry
+- 💞️ I’m looking to share thoughts on any interesting project ideas or research breakthroughs
 - 📫 How to reach me by email: cding020702@gmail.com
 
 <!---
